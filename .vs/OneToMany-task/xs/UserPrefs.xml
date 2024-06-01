@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A00CB083-0542-4C6D-BAE1-6FE99B51208B}|Default">
+  <MonoDevelop.Ide.ItemProperties.OneToMany-task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneToMany-task/Areas/Admin/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="OneToMany-task/Areas/Admin/Controllers/ProductController.cs" Line="83" Column="1" />
+      <File FileName="OneToMany-task/Services/CategoryService.cs" Line="52" Column="62" />
+      <File FileName="OneToMany-task/Services/Interfaces/ICategoryService.cs" Line="18" Column="48" />
+      <File FileName="OneToMany-task/Areas/Admin/Views/Product/Create.cshtml" Line="22" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneToMany-task" expanded="True">
+            <Node name="OneToMany-task" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="ProductController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
